@@ -23,7 +23,7 @@ function App() {
       <div class="container mx-auto">
       <div className="container mx-auto px-4 py-8">
         <FeaturedProducts />
-      {/* <i style={{fontSize:'36px'}} class="ri-menu-fold-2-line"></i>
+      <i style={{fontSize:'36px'}} class="ri-menu-fold-2-line"></i>
         <RiHeartFill
           size={36} // set custom `width` and `height`
           color="red" // set `fill` color
@@ -32,7 +32,7 @@ function App() {
         <h1 className="text-3xl font-bold mb-4">My Tailwind CSS Component</h1>
         <p className="text-gray-700">
           This content is styled with Tailwind classes.
-        </p> */}
+        </p>
       </div>
       </div>
           </div>
